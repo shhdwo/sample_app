@@ -1,7 +1,7 @@
 # Ruby on Rails Tutorial sample application
 
 
-https://shhdwo-sample-app.herokuapp.com/
+See here: https://shhdwo-sample-app.herokuapp.com/
 
 
 This is the sample application for
